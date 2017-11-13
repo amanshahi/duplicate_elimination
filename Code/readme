@@ -1,0 +1,15 @@
+B+ trees
+========
+
+To compile:
+g++ -std=c++11 -o btree btree.cpp readFiles.cpp
+To run: 
+./btree <Main memory size>
+
+Normal hashing
+==============
+
+To compile:
+g++ -std=c++11 -o hash hash.cpp readFiles.cpp
+To run: 
+./hash <Main memory size>
